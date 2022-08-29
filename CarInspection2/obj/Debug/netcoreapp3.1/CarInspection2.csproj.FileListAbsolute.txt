@@ -12,3 +12,17 @@ F:\TrainingGIT\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.csproj.Core
 F:\TrainingGIT\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.dll
 F:\TrainingGIT\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.pdb
 F:\TrainingGIT\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.genruntimeconfig.cache
+F:\TrainingGIT\CarInspection2\CarInspection2\bin\Debug\netcoreapp3.1\CarInspection2.exe
+F:\TrainingGIT\CarInspection2\CarInspection2\bin\Debug\netcoreapp3.1\CarInspection2.deps.json
+F:\TrainingGIT\CarInspection2\CarInspection2\bin\Debug\netcoreapp3.1\CarInspection2.runtimeconfig.json
+F:\TrainingGIT\CarInspection2\CarInspection2\bin\Debug\netcoreapp3.1\CarInspection2.runtimeconfig.dev.json
+F:\TrainingGIT\CarInspection2\CarInspection2\bin\Debug\netcoreapp3.1\CarInspection2.dll
+F:\TrainingGIT\CarInspection2\CarInspection2\bin\Debug\netcoreapp3.1\CarInspection2.pdb
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.csproj.AssemblyReference.cache
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.GeneratedMSBuildEditorConfig.editorconfig
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.AssemblyInfoInputs.cache
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.AssemblyInfo.cs
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.csproj.CoreCompileInputs.cache
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.dll
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.pdb
+F:\TrainingGIT\CarInspection2\CarInspection2\obj\Debug\netcoreapp3.1\CarInspection2.genruntimeconfig.cache

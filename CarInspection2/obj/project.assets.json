@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TrainingGIT\\CarInspection2\\CarInspection2.csproj",
+      "projectUniqueName": "F:\\TrainingGIT\\CarInspection2\\CarInspection2\\CarInspection2.csproj",
       "projectName": "CarInspection2",
-      "projectPath": "F:\\TrainingGIT\\CarInspection2\\CarInspection2.csproj",
+      "projectPath": "F:\\TrainingGIT\\CarInspection2\\CarInspection2\\CarInspection2.csproj",
       "packagesPath": "C:\\Users\\M.Witzik\\.nuget\\packages\\",
-      "outputPath": "F:\\TrainingGIT\\CarInspection2\\obj\\",
+      "outputPath": "F:\\TrainingGIT\\CarInspection2\\CarInspection2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M.Witzik\\AppData\\Roaming\\NuGet\\NuGet.Config",
