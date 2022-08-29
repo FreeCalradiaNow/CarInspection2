@@ -32,13 +32,13 @@ namespace CarInspection2
 
             Console.WriteLine("Folgende Autos wurden gefunden: ");
 
-            // gilt für Array von Autos
-            //foreach(string carName in cars)
             foreach(Car car in cars)
             {
                 if (car.carName.Contains(searchTerm))
                 {
-                    Console.WriteLine(car.carName + " Baujahr:: " + car.carBaujahr);
+                    Console.WriteLine(car.carName + " Baujahr:: " + car.carBaujahr + " Letzte Inspektion: " + car.carLastInspectionYear);
+                    car.Inspect();
+                    Console.WriteLine("Neues Inspektionsjahr: " + car.carLastInspectionYear);
                 }
 
 

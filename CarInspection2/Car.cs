@@ -8,13 +8,19 @@ namespace CarInspection2
     {
         public string carName = "Name";
         public int carBaujahr = 1995;
-        public int carLastinspectionYear = 2010;
+        public int carLastInspectionYear = 2010;
 
         // Konstruktor (wird aufgerufen wenn ein Object aus der Car-Klasse erstellt wird)
         public Car (string newName, int newBaujahr)
         {
             carName = newName;
             carBaujahr = newBaujahr;
+        }
+
+        // Methode Inspect
+        public void Inspect()
+        {
+            carLastInspectionYear = 2020;
         }
     }
 }
